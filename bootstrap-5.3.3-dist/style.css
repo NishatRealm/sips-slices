@@ -7,6 +7,9 @@
 .navbar .navbar-text:hover {
     color: green;
 }
+.banner-container{
+    margin-top: 40px;
+}
 
 /* banner styles */
 .banner-img{
@@ -47,5 +50,10 @@
 .order-button{
     background-color: darkcyan;
 }
+
+.drinks-img{
+    height: 425px;
+}
+
 
 
